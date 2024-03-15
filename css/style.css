@@ -1,4 +1,15 @@
-.bg-red{
-    background-color: rgb(171, 107, 231);
+.bg-pink{
+    background-color: rgb(169, 118, 218);
 }
-    
+
+
+.card{
+    width: 300px;
+    margin: 10px;
+}
+
+.card img:hover{
+    transform: scale(1.1);
+    transition: 0.5s;
+    opacity: 0.9;
+}
